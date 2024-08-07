@@ -1,7 +1,5 @@
 <template>
-  <NuxtLayout>
-    
-  </NuxtLayout>
+  <Banner></Banner>
 </template>
 
 <script lang="ts" setup>

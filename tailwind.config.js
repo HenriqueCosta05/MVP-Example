@@ -11,7 +11,9 @@ export default withMT({
     "./error.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      
+    },
   },
   plugins: [],
 });
